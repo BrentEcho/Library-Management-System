@@ -1,0 +1,9 @@
+1234567-John Doe-123 Main St-50
+2345678-Jane Smith-456 Oak Ave-0
+3456789-Bob Johnson-789 Pine Rd-200
+4567890-Alice Brown-321 Maple Dr-250
+1234567-Duplicate ID-111 Elm St-100
+5678901-Invalid Fine-222 Birch Rd-300
+6789012-Empty Name--50
+7890123-Empty Address- -20
+8901234-Valid Patron-999 Cedar Ln-150
